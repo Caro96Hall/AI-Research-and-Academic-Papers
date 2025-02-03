@@ -22,11 +22,11 @@ Socially Intelligent Robotics - NAOfit: This paper details the design and implem
 Communicative Robots Group Paper & Personal Report: A detailed study of automatic dialogue evaluation metrics, conversational flow, and agent memory in communicative robots.
 
 Key Achievements
-Authored award-winning research papers, including a thesis published cum laude that compares interactions with social robots, avatars, and digital devices.
+Authored research papers, including a thesis in review for publishing that compares interactions with social robots, avatars, and digital devices.
 Conducted interdisciplinary research in AI ethics, HRI, and NLP, contributing to the growing body of knowledge in these fields.
 Advanced expertise in aligning technical AI innovations with practical applications and user experience design.
 
 Skills and Tools
 Programming: Python, R, JavaScript (for data processing and analysis).
-AI Frameworks: TensorFlow, PyTorch, NLTK.
+AI Frameworks: TensorFlow, PyTorch, NLTK, YOLO(face detection), Docker, Google Dialogflow
 Research Methods: Meta-analysis, user-centered design evaluations, dataset curation and analysis.
